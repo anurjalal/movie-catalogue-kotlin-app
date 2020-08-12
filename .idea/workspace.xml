@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c5208a0-027f-47fc-a7bd-178cbf8328bf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_28" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="Kotlin Interface" />
+        <option value="layoutResourceFile" />
+        <option value="JUnit4 Test Class" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin Object" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eWEqMLrfWzFpEgh9sX2fDrcrD7" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Nexus_4_API_28" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-08-07T06:52:19.103Z" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/test/java/my/jalal/jetpack/moviecatalogue/ui/favorite" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../bfaa/SUBMISSION/Submission 5/Catalogue" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="my.jalal.jetpack.moviecatalogue.ui.utils" />
+      <recent name="my.jalal.jetpack.moviecatalogue.utils" />
+      <recent name="my.jalal.jetpack.moviecatalogue.data.source" />
+      <recent name="my.jalal.jetpack.moviecatalogue.data.source.remote.entity" />
+      <recent name="my.jalal.jetpack.moviecatalogue.data.source.local.entity" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="my.jalal.jetpack.moviecatalogue.ui.favorite.tvshow" />
+      <recent name="my.jalal.jetpack.moviecatalogue.ui.favorite.movie" />
+      <recent name="my.jalal.jetpack.moviecatalogue.data.source" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="my.jalal.jetpack.moviecatalogue.ui.home.utils" />
+      <recent name="my.jalal.jetpack.moviecatalogue.ui.home" />
+      <recent name="my.jalal.jetpack.moviecatalogue.ui.catalogue" />
+      <recent name="my.jalal.jetpack.moviecatalogue.ui.favorite" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="my.jalal.jetpack.moviecatalogue.ui" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Zachs\Document\Foccus\Dicoding\jetpack pro\Submission\Submission3\app\src\test\java\my\jalal\jetpack\moviecatalogue" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/my/jalal/jetpack/moviecatalogue/ui/favorite/tvshowfavorite" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/my/jalal/jetpack/moviecatalogue/ui/favorite/moviefavorite" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/assets/test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Instrumented Tests.CatalogueDaoTest">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ui in app" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <option name="TEST_OBJECT" value="directory" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <dir value="$PROJECT_DIR$/app/src/test/java/my/jalal/jetpack/moviecatalogue/ui" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CatalogueDaoTest" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <option name="TESTING_TYPE" value="2" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="my.jalal.jetpack.moviecatalogue.ui.home.CatalogueDaoTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeActivityTest" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <option name="TESTING_TYPE" value="2" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="my.jalal.jetpack.moviecatalogue.ui.home.HomeActivityTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests in 'my.jalal.jetpack.moviecatalogue.ui.home'" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <option name="TESTING_TYPE" value="1" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="my.jalal.jetpack.moviecatalogue.ui.home" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="insertFavoriteMovie()" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <option name="TESTING_TYPE" value="3" />
+      <option name="METHOD_NAME" value="insertFavoriteMovie" />
+      <option name="CLASS_NAME" value="my.jalal.jetpack.moviecatalogue.ui.home.HomeActivityTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android Instrumented Tests.CatalogueDaoTest" />
+        <item itemvalue="Android Instrumented Tests.Tests in 'my.jalal.jetpack.moviecatalogue.ui.home'" />
+        <item itemvalue="Android JUnit.ui in app" />
+        <item itemvalue="Android Instrumented Tests.HomeActivityTest" />
+        <item itemvalue="Android Instrumented Tests.insertFavoriteMovie()" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c5208a0-027f-47fc-a7bd-178cbf8328bf" name="Default Changelist" comment="" />
+      <created>1594429138940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594429138940</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="200" y="96" key="#PSD" timestamp="1597024102535">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="200" y="96" key="#PSD/0.0.1366.728@0.0.1366.728" timestamp="1597024102535" />
+    <state x="99" y="126" width="1168" height="543" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1594954168312">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="99" y="126" width="1168" height="543" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.27.1366.741@0.27.1366.741" timestamp="1594954168312" />
+    <state x="473" y="115" width="427" height="564" key="#com.intellij.ide.util.MemberChooser" timestamp="1596864201549">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="473" y="115" width="427" height="564" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1596864201549" />
+    <state x="37" y="324" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1596505277953">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="37" y="324" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.27.1366.741@0.27.1366.741" timestamp="1596505277953" />
+    <state x="465" y="278" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1596505281256">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="465" y="278" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.27.1366.741@0.27.1366.741" timestamp="1596505281256" />
+    <state x="267" y="27" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596425128279">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="267" y="27" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1366.741@0.27.1366.741" timestamp="1596425128279" />
+    <state x="420" y="145" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594440779908">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="420" y="145" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.741@0.27.1366.741" timestamp="1594440779908" />
+    <state x="458" y="0" width="596" height="688" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1596971965182">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="458" y="0" width="596" height="688" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1596971965182" />
+    <state x="458" y="38" width="596" height="719" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1596439493816" />
+    <state x="386" y="287" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1594736582879">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="386" y="287" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1366.741@0.27.1366.741" timestamp="1594736582879" />
+    <state x="270" y="154" key="AndroidCreateResourceDirectoryDialog" timestamp="1596340641259">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="270" y="154" key="AndroidCreateResourceDirectoryDialog/0.27.1366.741@0.27.1366.741" timestamp="1596340641259" />
+    <state x="270" y="154" key="AndroidCreateResourceFileDialog" timestamp="1596602465597">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="270" y="154" key="AndroidCreateResourceFileDialog/0.27.1366.741@0.27.1366.741" timestamp="1596602465597" />
+    <state x="542" y="211" key="AndroidCreateXmlResourceDialog" timestamp="1596440189924">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="542" y="211" key="AndroidCreateXmlResourceDialog/0.27.1366.741@0.27.1366.741" timestamp="1596440189924" />
+    <state x="545" y="164" key="AndroidProcessChooserDialog" timestamp="1596802261007">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="545" y="164" key="AndroidProcessChooserDialog/0.27.1366.741@0.27.1366.741" timestamp="1596802261007" />
+    <state x="99" y="126" width="1168" height="543" key="DiffContextDialog" timestamp="1594696989194">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="99" y="126" width="1168" height="543" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1594696989194" />
+    <state x="470" y="125" width="426" height="486" key="FileChooserDialogImpl" timestamp="1597203823917">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="470" y="125" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597203823917" />
+    <state x="470" y="154" width="426" height="486" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1596861004244" />
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1597048114893">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597048114893" />
+    <state width="1320" height="133" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1596860363528" />
+    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1597048114893">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597048114893" />
+    <state width="1320" height="133" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1596860363527" />
+    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1597048114893">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597048114893" />
+    <state width="1320" height="133" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1596860363527" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1597048114893">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597048114893" />
+    <state width="1320" height="133" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1596860363528" />
+    <state width="1320" height="218" key="GridCell.Tab.1.bottom" timestamp="1594956018036">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="218" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1594956018036" />
+    <state width="1320" height="218" key="GridCell.Tab.1.center" timestamp="1594956018028">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="218" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1594956018028" />
+    <state width="1320" height="218" key="GridCell.Tab.1.left" timestamp="1594956018027">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="218" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1594956018027" />
+    <state width="1320" height="218" key="GridCell.Tab.1.right" timestamp="1594956018030">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="218" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1594956018030" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1596937944523">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1596937944523" />
+    <state x="483" y="146" key="chooseDestDirectoryDialog" timestamp="1596945127196">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="483" y="146" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1596945127196" />
+    <state x="483" y="176" key="chooseDestDirectoryDialog/0.27.1366.741@0.27.1366.741" timestamp="1594693350959" />
+    <state x="99" y="126" width="1168" height="543" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1596802472428">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="99" y="126" width="1168" height="543" key="com.android.tools.idea.avdmanager.AvdListDialog/0.27.1366.741@0.27.1366.741" timestamp="1596802472428" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1597055499830">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1597055499830" />
+    <state x="402" y="84" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1596945127211">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="84" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1596945127211" />
+    <state x="402" y="113" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/0.27.1366.741@0.27.1366.741" timestamp="1594693350974" />
+    <state x="346" y="88" width="672" height="678" key="search.everywhere.popup" timestamp="1596785063517">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="88" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1596785063517" />
+  </component>
+</project>
