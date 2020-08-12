@@ -1,1 +1,1 @@
-This code is created by Ahmad Nurjalal for final submission in Belajar Android Jetpack Pro class at Dicoding, an Google Authorized Training Partner
+This application is created by Ahmad Nurjalal for final submission in Belajar Android Jetpack Pro class at Dicoding, a Google Authorized Training Partner
